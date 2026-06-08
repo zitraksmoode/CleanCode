@@ -1,0 +1,13 @@
+# IntelliJ IDEA служебные файлы
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Gradle служебные файлы
+.gradle/
+build/
+
+# Локальные настройки среды
+.DS_Store

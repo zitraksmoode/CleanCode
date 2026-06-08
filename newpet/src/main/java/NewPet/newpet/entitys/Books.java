@@ -6,7 +6,7 @@ import lombok.RequiredArgsConstructor;
 @Data
 @RequiredArgsConstructor
 public class Books {
-    private long id;
+    private Long id;
     private String name;
     private People people;
     private long count;

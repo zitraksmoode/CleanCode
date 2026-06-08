@@ -8,7 +8,7 @@ import java.util.List;
 @Data
 @RequiredArgsConstructor
 public class Libraries {
-    private long id;
+    private Long id;
     private String name;
     private List<Books> booksList;
 
